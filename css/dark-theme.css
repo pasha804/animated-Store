@@ -1,0 +1,8 @@
+/* Dark Theme Styles */
+
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+}
+
+/* Add more dark theme styles here */
